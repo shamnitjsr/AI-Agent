@@ -1,1 +1,2 @@
 I am automation tester from India.
+Semantic search + Keyword search = Hybrid Serach
